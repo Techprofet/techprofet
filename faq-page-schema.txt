@@ -1,0 +1,41 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "ENTER YOUR FIRST QUESTION HERE",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "ENTER YOUR FIRST ANSWER HERE"
+    }
+  }, {
+    "@type": "Question",
+    "name": "ENTER YOUR SECOND QUESTION HERE",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "ENTER YOUR SECOND ANSWER HERE"
+    }
+  }, {
+    "@type": "Question",
+    "name": "ENTER YOUR THIRD QUESTION HERE",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "ENTER YOUR THIRD QUESTION HERE"
+    }
+  }, {
+    "@type": "Question",
+    "name": "ENTER YOUR FOURTH QUESTION HERE",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "ENTER YOUR FOURTH QUESTION HERE"
+    }
+  }, {
+    "@type": "Question",
+    "name": "ENTER YOUR FIFTH QUESTION HERE",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text":"ENTER YOUR FIFTH QUESTION HERE"}
+    }]
+  }
+</script>
